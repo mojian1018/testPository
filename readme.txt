@@ -12,3 +12,4 @@ dev
 master
 feature1
 issdev2
+tags
