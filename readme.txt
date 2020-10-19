@@ -11,4 +11,4 @@
 dev
 master
 feature1
-isdev2
+issdev2
